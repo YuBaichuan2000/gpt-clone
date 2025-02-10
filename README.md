@@ -1,5 +1,5 @@
 
-# gpt-clone deployed on Render(gpt-clone-e01d.onrender.com/)
+# [gpt-clone](https://gpt-clone-e01d.onrender.com/) deployed on Render
 
 
 ## Tech Stack
