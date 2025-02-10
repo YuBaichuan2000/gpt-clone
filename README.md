@@ -1,5 +1,5 @@
 
-# gpt-clone deployed on Render()
+# gpt-clone deployed on Render(gpt-clone-e01d.onrender.com/)
 
 
 ## Tech Stack
@@ -10,14 +10,4 @@
 * How to use React hooks: useState, useEffect
 * How to use openAI API to communicate with frontend and backend
 
-## Demo
-
-<img src="assets/homepage.png" alt="App Screenshot" width="500" />
-<img src="assets/input_validation.png" alt="App Screenshot" width="500"/ >
-
-
-
-## Future Work
-* User can edit a workout record
-* User Authentication
 
